@@ -1,4 +1,4 @@
-# CV-Project-24BAI10048
+# Computer Vision Project - 24BAI10048
 ### Automated License Plate Recognition (ALPR) Pipeline
 
 
